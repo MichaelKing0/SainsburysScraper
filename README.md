@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/MichaelKing0/SainsburysScraper.svg?branch=master)](https://travis-ci.org/MichaelKing0/SainsburysScraper)
+[![Code Climate](https://codeclimate.com/github/MichaelKing0/SainsburysScraper/badges/gpa.svg)](https://codeclimate.com/github/MichaelKing0/SainsburysScraper)
+
 # Sainsbury's Technical Test
 ## Installation
 ### Clone and install dependencies
