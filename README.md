@@ -5,6 +5,7 @@
 ## Requirements
 - PHP 5.6+
 - Composer
+
 ## Installation
 ### Clone and install dependencies
 ```
