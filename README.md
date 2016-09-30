@@ -2,6 +2,9 @@
 [![Code Climate](https://codeclimate.com/github/MichaelKing0/SainsburysScraper/badges/gpa.svg)](https://codeclimate.com/github/MichaelKing0/SainsburysScraper)
 
 # Sainsbury's Technical Test
+## Requirements
+- PHP 5.6+
+- Composer
 ## Installation
 ### Clone and install dependencies
 ```
