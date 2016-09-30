@@ -67,7 +67,7 @@ class CategoryEntityTest extends BaseTest
     {
         $json = json_encode($this->categoryEntity);
         $this->assertEquals(
-            '{"results":[{"title":"Test title","size":"1kb","unitPrice":"1.50","description":"Test description"},{"title":"Test title 2","size":"2kb","unitPrice":"2.50","description":"Test description 2"}],"total":"4.00"}',
+            '{"results":[{"title":"Test title","size":"1kb","unit_price":"1.50","description":"Test description"},{"title":"Test title 2","size":"2kb","unit_price":"2.50","description":"Test description 2"}],"total":"4.00"}',
             $json
         );
     }

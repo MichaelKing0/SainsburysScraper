@@ -97,7 +97,7 @@ class ProductEntity implements \JsonSerializable
         return [
             'title' => $this->getTitle(),
             'size' => $this->getSize(),
-            'unitPrice' => number_format($this->getUnitPrice(), 2),
+            'unit_price' => number_format($this->getUnitPrice(), 2),
             'description' => $this->getDescription(),
         ];
     }
